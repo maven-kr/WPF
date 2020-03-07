@@ -1,2 +1,7 @@
 # message
-# WPF 작성 테스트
+# WPF Programming Test
+
+# Directory Description
+# > UserControlOnRenderTest: Test user control with OnRender customization
+
+
