@@ -1,0 +1,17 @@
+C:\Work\WPF\UserControlOnRenderTest\UserControlOnRenderTest\bin\Debug\UserControlOnRenderTest.exe.config
+C:\Work\WPF\UserControlOnRenderTest\UserControlOnRenderTest\bin\Debug\UserControlOnRenderTest.exe
+C:\Work\WPF\UserControlOnRenderTest\UserControlOnRenderTest\bin\Debug\UserControlOnRenderTest.pdb
+C:\Work\WPF\UserControlOnRenderTest\UserControlOnRenderTest\obj\Debug\UserControlOnRenderTest.csprojAssemblyReference.cache
+C:\Work\WPF\UserControlOnRenderTest\UserControlOnRenderTest\obj\Debug\MainWindow.g.cs
+C:\Work\WPF\UserControlOnRenderTest\UserControlOnRenderTest\obj\Debug\UserControl1.g.cs
+C:\Work\WPF\UserControlOnRenderTest\UserControlOnRenderTest\obj\Debug\App.g.cs
+C:\Work\WPF\UserControlOnRenderTest\UserControlOnRenderTest\obj\Debug\UserControlOnRenderTest_MarkupCompile.cache
+C:\Work\WPF\UserControlOnRenderTest\UserControlOnRenderTest\obj\Debug\UserControlOnRenderTest_MarkupCompile.lref
+C:\Work\WPF\UserControlOnRenderTest\UserControlOnRenderTest\obj\Debug\MainWindow.baml
+C:\Work\WPF\UserControlOnRenderTest\UserControlOnRenderTest\obj\Debug\UserControl1.baml
+C:\Work\WPF\UserControlOnRenderTest\UserControlOnRenderTest\obj\Debug\UserControlOnRenderTest.g.resources
+C:\Work\WPF\UserControlOnRenderTest\UserControlOnRenderTest\obj\Debug\UserControlOnRenderTest.Properties.Resources.resources
+C:\Work\WPF\UserControlOnRenderTest\UserControlOnRenderTest\obj\Debug\UserControlOnRenderTest.csproj.GenerateResource.cache
+C:\Work\WPF\UserControlOnRenderTest\UserControlOnRenderTest\obj\Debug\UserControlOnRenderTest.exe
+C:\Work\WPF\UserControlOnRenderTest\UserControlOnRenderTest\obj\Debug\UserControlOnRenderTest.pdb
+C:\Work\WPF\UserControlOnRenderTest\UserControlOnRenderTest\obj\Debug\GeneratedInternalTypeHelper.g.cs
